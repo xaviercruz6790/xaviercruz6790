@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Xavier Cruz 👋
 
-<!--
-**xaviercruz6790/xaviercruz6790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analytics & Commercial Strategy professional with 7+ years of experience across business intelligence, commercial planning, forecasting, performance management, and multi-country operations.
 
-Here are some ideas to get you started:
+## Areas of Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Business Analytics & Performance
+- Commercial Strategy & Planning
+- Business Intelligence
+- Forecasting & Inventory Planning
+- Revenue & Sales Operations
+- Reporting Automation
+- Market Intelligence
+
+## Tools
+
+Excel | Power Query | Power BI | SQL Server | CRM / HubSpot | SharePoint | Teams
+
+## Current Portfolio
+
+I am currently building a portfolio of practical business analytics projects using public and synthetic datasets, focused on commercial performance, forecasting, inventory planning, and management reporting.
+
+## Connect with me
+
+LinkedIn: https://www.linkedin.com/in/xaviercruz6790/
